@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [""],
+        "ACTIVITY_TEXT": "⛧ Aworaw Register Confirmation¹ Voice System",
+        "GUILD_ID": "936721050287345684",
+        "VOICE_CHANNEL": "936725705759289465",
+        "MIN_STAFF_ROLE": "936722449356161034"
+    },
+    "FILES": {
+        "WELCOME": "default_files/Welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+     },
+    "TOKEN": "OTM2ODc1MDI5NDA3MzQyNjQy.YfTi3Q.9QBu_IzyTvh3dg_jF3PAg02JhfM"
+}
